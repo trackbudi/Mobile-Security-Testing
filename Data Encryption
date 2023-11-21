@@ -1,0 +1,10 @@
+Data Security
+
+Test Case 4: Data Encryption
+
+Objective: 
+To confirm that sensitive data is encrypted during transmission.
+
+Steps:
+Intercept network traffic using tools like Charles Proxy.
+Verify that data is transmitted in an encrypted format (e.g., HTTPS).
