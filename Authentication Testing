@@ -1,0 +1,9 @@
+Authentication Testing:
+
+Test Case 1: 
+Weak Preauthentication objective: To ensure the application enforces a strong password policy.
+
+Steps:
+
+1. Attempt to create an account with a password that does not meet the defined strength criteria.
+2. Verify that the system rejects the weak password and provides appropriate feedback.
