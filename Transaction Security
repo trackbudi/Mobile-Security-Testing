@@ -1,0 +1,9 @@
+ Transaction Security:
+Test Case 4: Secure Connection
+
+Objective: To confirm that transactions are conducted over a secure connection.
+
+Steps:
+Initiate a transaction.
+Intercept network traffic using tools like Wireshark.
+Verify that transaction data is transmitted over HTTPS.
