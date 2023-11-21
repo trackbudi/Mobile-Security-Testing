@@ -1,0 +1,6 @@
+Data Security:
+Test Case 7: Data Encryption
+Objective: To confirm that sensitive data is encrypted at rest.
+Steps:
+Analyze local storage for stored sensitive data.
+Verify that stored data is encrypted and not easily accessible.
