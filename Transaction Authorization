@@ -1,0 +1,8 @@
+Test Case 3: Transaction Authorization
+
+Objective: 
+To ensure that financial transactions require proper authorization.
+
+Steps:
+Initiate a transaction.
+Verify that the user is prompted to confirm the transaction through a secure method (e.g., PIN, biometric).
