@@ -1,0 +1,11 @@
+Test Case 3: Token Management
+
+Objective: To confirm the secure handling of authentication tokens.
+
+Steps:
+
+Log in and capture authentication tokens.
+
+Attempt to use captured tokens from another device.
+
+Verify that tokens are not reusable and tied to the specific device.
