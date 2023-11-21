@@ -1,0 +1,7 @@
+Test Case 5: Secure Data Storage
+
+Objective: To ensure that sensitive data stored on the device is adequately protected.
+
+Steps:
+Analyze the app's local storage for sensitive data.
+Verify that stored data is encrypted and not easily accessible.
