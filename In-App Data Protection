@@ -1,0 +1,6 @@
+Test Case 9: In-App Data Protection
+Objective: 
+To prevent sensitive data from being accessed by other apps on the device.
+Steps:
+Analyze app data storage.
+Verify that sensitive data is not accessible to other applications on the device.
