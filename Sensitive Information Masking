@@ -1,0 +1,6 @@
+Test Case 8: Sensitive Information Masking
+Objective:
+To prevent exposure of sensitive information during transactions.
+Steps:
+Initiate a transaction.
+Verify that sensitive information (e.g., account numbers) is masked during entry and confirmation.
