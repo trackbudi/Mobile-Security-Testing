@@ -1,0 +1,7 @@
+Error Handling:
+Test Case 13: Secure Error Messages
+Objective: 
+To prevent the exposure of sensitive information through error messages.
+Steps:
+Trigger an error condition.
+Verify that error messages do not reveal sensitive information.
