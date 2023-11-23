@@ -1,0 +1,8 @@
+Device Lock Screen
+
+Objective: 
+To protect against unauthorized access to the app when the device is unlocked.
+
+Steps:
+Open the app after the device has been inactive.
+Verify that the app requires re-authentication if the device is unlocked.
