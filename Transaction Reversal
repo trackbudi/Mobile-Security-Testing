@@ -1,0 +1,6 @@
+Transaction Reversal
+Objective: 
+To ensure the app handles transaction reversals securely.
+Steps:
+Initiate a transaction reversal.
+Verify that the app confirms the reversal securely and updates the user's balance accurately.
