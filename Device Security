@@ -1,0 +1,8 @@
+Device Security:
+Test Case 10: 
+Secure Keyboard Input
+Objective: 
+To prevent data interception through the device keyboard.
+Steps:
+Enter sensitive information (e.g., PIN) using the device keyboard.
+Verify that the app uses secure input methods to prevent keyboard-based attacks.
