@@ -1,13 +1,1 @@
-Authentication and Authorization:
 
-Test Case 1: Biometric Authentication
-
-Objective: To verify the security of biometric authentication (e.g., fingerprint, face recognition).
-
-Steps:
-
-Register a biometric credential.
-
-Attempt to access the app using a fake or unauthorized biometric input.
-
-Verify that unauthorized access is denied.
